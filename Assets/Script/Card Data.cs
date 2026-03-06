@@ -7,9 +7,9 @@ public class CardData : ScriptableObject
     public Sprite cardArtwork;
 
     [Header("Stats Impact")]
-    public int ekonomi;
-    public int lingkungan;
-    public int sosial;
+    public int Ekonomi;
+    public int Lingkungan;
+    public int Sosial;
 
     public int durationDays;
 }

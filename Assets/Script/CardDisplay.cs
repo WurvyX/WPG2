@@ -19,7 +19,7 @@ public class CardDisplay : MonoBehaviour
     {
         data = newData;
         nameText.text = data.cardName;
-        artworkImage.sprite = data.cardArtwork;
-        statsText.text = $"E:{data.ekonomi} L:{data.lingkungan} S:{data.sosial}";
+        //artworkImage.sprite = data.cardArtwork;
+        statsText.text = $"E:{data.Ekonomi} L:{data.Lingkungan} S:{data.Sosial}";
     }
 }

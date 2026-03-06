@@ -12,7 +12,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 51d4a1512b486a84b85352b67b85e001, type: 3}
   m_Name: Kartu_Pabrik
   m_EditorClassIdentifier: Assembly-CSharp::CardData
-  cardName: Kartu Pabrik
+  cardName: Pabrik Plastik
   cardArtwork: {fileID: 0}
   ekonomi: 30
   lingkungan: -20
